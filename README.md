@@ -2,11 +2,11 @@
 
 
 
-## OBJECTIVE:
+## PROJECT NAME:
 
 #### HR Analytics: Employee Data Analysis Project using Tableau 
 
-## ABOUT PROJECT:
+## OBJECTIVE:
 
 The objective of the project is to analyze and determine the employee attrition rate in a company to identify trends and factors influencing turnover.
 
