@@ -2,7 +2,7 @@
 
 
 
-## PROJECT NAME:
+## OBJECTIVE:
 
 #### HR Analytics: Employee Data Analysis Project using Tableau 
 
