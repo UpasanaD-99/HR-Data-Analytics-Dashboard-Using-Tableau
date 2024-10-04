@@ -63,24 +63,26 @@ The objective of the project is to analyze and determine the employee attrition 
 
 ## DASHBOARD:
 
-[Go to my Dashboard](https://public.tableau.com/views/Book1_17277687202940/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Go to my Dashboard](https://public.tableau.com/views/Book1_17277687202940/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 📊
 
 
-### DASHBOARD OVERVIEW:
+## DASHBOARD OVERVIEW:
 
 The Tableau dashboard visualizes key metrics related to employee attrition within an organization. It includes the following sections:
 
-Employee Count per Experience:
+#### Employee Count per Experience:
 This chart shows the distribution of employees based on their years of experience. It highlights the relationship between experience levels and attrition rates, allowing HR teams to identify experience groups with higher attrition.
 
-Employee Count per Monthly Income:
+#### Employee Count per Monthly Income:
 A bar chart breaks down employees by monthly income, showing how income levels correspond to attrition. Employees in lower or higher income brackets may have distinct attrition trends.
 
-Age-wise Employee Distribution:
+#### Age-wise Employee Distribution:
 This section provides insights into how employee count varies across different age groups. Age groups with higher attrition rates can help target HR strategies for retention.
 
-Key Metrics:
+#### Key Metrics:
 The dashboard includes important metrics like total employee count, average monthly income, job satisfaction, and the overall attrition rate. These give a quick overview of the organization's health and workforce dynamics.
+
+## CONCLUSION:
 
 Overall, the dashboard offers a comprehensive view of employee turnover, focusing on variables like experience, income, and age. It helps HR teams identify key trends and develop strategies to reduce attrition.
 
